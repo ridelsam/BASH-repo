@@ -1,1 +1,6 @@
 Hello from my raspberryPi
+
+9/2/2023
+-cloning BASH repo to new linux machine
+-setting up github 
+-revisiting cli tutorials
