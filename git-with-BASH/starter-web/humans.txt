@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Ridel Samonte   ridel.asam@gmail.com    @ridelsam
+
+# THANKS
+
+    Everyone!
+    Adding additional content
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    Merger
