@@ -18,12 +18,12 @@ ecu3_fail = 1
 ecu3_pass = 12
 
 
-GPIO.setup(18, GPIO.OUT)
-GPIO.setup(23, GPIO.OUT)
-GPIO.setup(24, GPIO.OUT)
-GPIO.setup(25, GPIO.OUT)
-GPIO.setup(8, GPIO.OUT)
-GPIO.setup(7, GPIO.OUT)
+GPIO.setup(ecu0_fail, GPIO.OUT)
+GPIO.setup(ecu0_pass, GPIO.OUT)
+GPIO.setup(ecu1_fail, GPIO.OUT)
+GPIO.setup(ecu1_pass, GPIO.OUT)
+GPIO.setup(ecu2_fail, GPIO.OUT)
+GPIO.setup(ecu2_pass, GPIO.OUT)
 GPIO.setup(ecu3_fail, GPIO.OUT)
 GPIO.setup(ecu3_pass, GPIO.OUT)
 
